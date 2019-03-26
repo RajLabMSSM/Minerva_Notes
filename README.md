@@ -6,4 +6,5 @@ Tutorials, tips and tricks with the Minerva computing cluster
 
 <br>
 <br>
+
 ![Minerva](./images/minerva.jpg)
